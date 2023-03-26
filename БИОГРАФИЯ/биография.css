@@ -1,0 +1,122 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/tri.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1010px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: normal;
+  margin: 21px 511px 0 43px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  margin: 87px 489px 0 21px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 400;
+  margin: -552px -244px 60px 754px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 854px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 4.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 25px;
+    margin-right: 329px;
+    margin-left: -19px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: -492px;
+    margin-right: -35px;
+    margin-left: 611px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 898px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -7px;
+    margin-right: 54px;
+    margin-left: 80px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 80px;
+    margin-right: 13px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 427px;
+    margin: 54px auto 39px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1198px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 6rem;
+    margin-top: 10px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 35px;
+    margin-right: 10px;
+    margin-left: -10px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 70px;
+    margin-right: 165px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1606px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-top: 52px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 340px;
+    margin-top: 94px;
+    margin-right: -120px;
+  }
+}
